@@ -10,7 +10,7 @@ enum MyEnum {
 //
 // % weight=100 color=#0fbc11 icon=""
 //
-namespace custom {
+namespace custom_test {
     /**
      * TODO: 在此处描述您的函数
      * @param n 在此处描述参数, eg: 5
