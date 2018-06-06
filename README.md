@@ -1,5 +1,7 @@
 # makecode_test
 
+makecode_test
+
 ## License
 
 MIT
@@ -7,3 +9,5 @@ MIT
 ## Supported targets
 
 * for PXT/microbit
+(The metadata above is needed for package search.)
+

@@ -1,5 +1,7 @@
 {
-    "name": "custom",
+    "name": "makecode_test",
+	"version": "1.0.0",
+    "description": "makecode_test",
 	"license": "MIT",
     "dependencies": {
         "core": "*",
