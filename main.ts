@@ -11,7 +11,7 @@ namespace custom_test {
      * @param e 在此处描述参数
      */
     //% block
-    export function foo(n: number, s: string, e: MyEnum): void {
+    export function test_foo(n: number, s: string, e: MyEnum): void {
         // Add code here
     }
 
@@ -20,7 +20,7 @@ namespace custom_test {
      * @param value 在此处描述”值“, eg: 5
      */
     //% block
-    export function fib(value: number): number {
+    export function test_fib(value: number): number {
         return value <= 1 ? value : fib(value - 1) + fib(value - 2);
     }
 }
