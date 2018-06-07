@@ -9,8 +9,8 @@
     },
     "description": "",
     "files": [
-        "main.blocks",
         "main.ts",
+		"mbit.ts",
         "README.md"
     ],
 	"public": true
