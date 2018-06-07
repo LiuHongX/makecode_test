@@ -1,0 +1,19 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables></variables>
+  <block type="pxt-on-start" x="0" y="0">
+    <statement name="HANDLER">
+      <block type="typescript_statement" editable="false">
+        <mutation line5="}" line4="    Two" line3="    //% block=&quot;two&quot;" line2="    One," line1="    //% block=&quot;one&quot;" line0="enum MyEnum {" numlines="6"></mutation>
+        <comment pinned="false" h="80" w="160">使用此文件来定义自定义函数和图形块。 想了解更详细的信息，请前往 https://makecode.microbit.org/blocks/custom</comment>
+        <next>
+          <block type="typescript_statement" editable="false">
+            <mutation line5="     * @param e 在此处描述参数" line4="     * @param s 在此处描述参数, eg: &quot;Hello&quot;" line3="     * @param n 在此处描述参数, eg: 5" line2="     * TODO: 在此处描述您的函数" line1="    /**" line0="namespace custom {" numlines="21" line20="}" line19="    }" line18="        return value &lt;= 1 ? value : fib(value - 1) + fib(value - 2);" line17="    export function fib(value: number): number {" line16="    //% block" line15="     */" line14="     * @param value 在此处描述”值“, eg: 5" line13="     * TODO: 在此处描述您的函数" line12="    /**" line11="" line10="    }" line9="        // Add code here" line8="    export function foo(n: number, s: string, e: MyEnum): void {" line7="    //% block" line6="     */"></mutation>
+            <comment pinned="false" h="80" w="160">自定义图形块
+% weight=100 color=#0fbc11 icon=""
+            </comment>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+</xml>

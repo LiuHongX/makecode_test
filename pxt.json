@@ -10,7 +10,6 @@
     "description": "",
     "files": [
         "main.ts",
-		"mbit.ts",
         "README.md"
     ],
 	"public": true
